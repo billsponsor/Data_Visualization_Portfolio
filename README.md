@@ -11,7 +11,9 @@ I have a deep interest in staying up to date on the staples and "newcomers" in t
 # COVID-19 Case Tracker: King County
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529824"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Project 2 
+# Government Debt-to-GDP Ratio, EU
+<iframe src="https://data.oecd.org/chart/6Blq" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Blq" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+
 
 # Final Project 
 
