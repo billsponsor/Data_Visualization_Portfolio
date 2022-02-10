@@ -57,4 +57,6 @@ Luckily for my project, Professor Chris Goranson offered some in-class time to d
 Above is my suggestion to the WSJ's Real Time Economics author for the visualization. The animation works well for the intended audience, as the trend is very easy to see and (most importantly) does not take much of the viewer's time. The gif cycles in about 5 seconds, communicating the message in less time than it would take the average viewer to discern it from the provided graph. The color highlights the trend and matches the change in title as the animation progresses. 
 
 Source: WSJ Real Time Economics Special Report: Labor Market Powers Through Omicron (02/04/2022) 
+Source: Federal Reserve Summary of Economic Projections, https://www.fedsearch.org/fomc-docs/search?text=summary+of+economic+projections
+
 
