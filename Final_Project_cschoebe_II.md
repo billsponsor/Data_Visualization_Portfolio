@@ -1,11 +1,11 @@
-### Final Project: Part II 
-### Men & Mental Health 
+# Final Project: Part II 
+## Men & Mental Health 
 ## Wireframes, Storyboards, & User Interviews
 
-# Wireframe 
+### Wireframe 
 https://preview.shorthand.com/fyCYMucpBooUALtf
 
-# Storyboard 
+### Storyboard 
 To draft the first version of my final project, I utilized a storyboard and a moodboard. Following last week's small group critique session, I wanted to make sure I nailed down the exact path my story is going to take. The issue is so broad and affects so many people in so many different ways. It would be impossible to tackle all of them in the 1-hour presentation, much less a 1-minute presentation. To ensure I stay on track with the main elements I want to focus on, I sketched out a story board. 
 
 ![storyboard](https://user-images.githubusercontent.com/39040541/155176176-647790a2-cd07-4950-b064-244337e6fcad.jpeg)
@@ -14,12 +14,12 @@ The story board starts with the intended (and wider) audience's foundation - bac
 
 The story board also allowed me to map out my user journey graph into a more concrete outline. The segments I was able to discuss with my critique group are now more detailed and filled out then they were in last week's draft. I was also able to plan out the best presentation order for my various datasets, i.e. which dataset would "hit" the hardest when coupled with a certain narrative. These plans are subject to change, but they at least gave me a relatively solid prototype with which I could conduct user interviews. 
 
-# Moodboard 
+### Moodboard 
 ![moodboard](https://user-images.githubusercontent.com/39040541/155177045-1e5cf6b2-ed0e-4879-8608-5ad92d090f27.jpeg)
 
 The moodboard supplemented the insights gained from the story board. The color selection and overall "feel" of the presentation were influenced by the emotions I wanted to capture through the moodboard. 
 
-# User Interview
+### User Interview
 The most important part of any presentation is the user research. Whether you're presenting a final project for a class or a final product for a client, proper prior vetting is key to success. I have learned that asking questions that are *specific* to the overall format, layout, or flow yet *broad* enough to elicit unfiltered opinions is the best way to get real feedback on your piece. 
 
 I was able to interview 3 individuals for this prototype. 2 were women (mid 20s, late 30s) and 1 was a man (mid 20s). All 3 were college-educated and had heard of the issue beforehand. Given the saliency of this topic, it was hard to find anyone who had no preconceived notions or knowledge on the subject. 
