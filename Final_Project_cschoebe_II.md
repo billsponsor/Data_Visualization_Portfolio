@@ -37,3 +37,6 @@ Unfortunately, I did not get very helpful feedback on the presentation from my 3
   "I would have liked to see more a focus on how to have conversations, rather than it just being tossed in at the end." 
   "The colors were really good, even the background pictures all kind of fit the general color scheme." 
 After hearing these comments, I want to go back and revise the titles for all my visualizations. I think framing the information from the perspective of the intended audience would be very helpful in answering a couple of the points above. For example, rather than saying "Men have...," I could say "Of the men in your life, ..." in order to keep it tied to the audience's perspective. I also want to spend some time this week focusing on a possible AR/VR visualization that will assist in conversations. Even if it's not ready for the final presentation, I'd like to eventually be able to have that component. 
+
+[Click Here](https://github.com/billsponsor/Data_Visualization_Portfolio/blob/main/Final_Project_cschoebe.md) for Part I
+[Click Here](https://github.com/billsponsor/Data_Visualization_Portfolio/blob/main/Final_Project_cschoebe_III.md) for Part III
