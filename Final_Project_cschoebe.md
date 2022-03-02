@@ -18,3 +18,6 @@ Lastly, there are many other organizations that advocate for men's mental health
 ## Method and Medium 
 <subject to change> 
 The plan is to use Shorthand to integrate user stories and data visualizations into a cohesive presentation. Given the presentation is only one minute long, I'll have to decide on the most important aspects to highlight. I also want to implement either an AR data visualization, a VR program that will offer participants with the option to practice opening lines for mental health conversations, or (at least) a guide for how to make on (important things to incorporate, user stories, etc. like in Policy Innovation Lab). 
+
+[Click Here](https://github.com/billsponsor/Data_Visualization_Portfolio/blob/main/Final_Project_cschoebe_II.md) for Part II 
+[Click Here](https://github.com/billsponsor/Data_Visualization_Portfolio/blob/main/Final_Project_cschoebe_III.md) for Part III
